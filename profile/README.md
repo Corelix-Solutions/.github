@@ -1,4 +1,5 @@
-![corelixSolutionpfp1](https://github.com/user-attachments/assets/6def5e15-7ef3-4305-8c14-ec1d98891959)
+
+![corelixSolutionpfp1](https://github.com/user-attachments/assets/69d4f200-64d2-4537-8007-6f7764307fe0)
 
 # Corelix Solutions
 
