@@ -48,7 +48,7 @@ Each module is designed to be **plug-and-play**, with standalone repos and share
 ## 💬 Follow Our Journey
 
 We’re building Corelix out in the open. Follow updates, milestones, and insights on:
-- [LinkedIn](https://www.linkedin.com/company/corelix)
+- [Company's portfolio](https://www.corelixsolutions.tech/)
 
 
 ---
